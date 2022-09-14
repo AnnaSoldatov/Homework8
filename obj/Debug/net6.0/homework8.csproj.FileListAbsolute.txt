@@ -1,0 +1,15 @@
+/Users/teacher/Desktop/SeminarHomework/homework8/bin/Debug/net6.0/homework8
+/Users/teacher/Desktop/SeminarHomework/homework8/bin/Debug/net6.0/homework8.deps.json
+/Users/teacher/Desktop/SeminarHomework/homework8/bin/Debug/net6.0/homework8.runtimeconfig.json
+/Users/teacher/Desktop/SeminarHomework/homework8/bin/Debug/net6.0/homework8.dll
+/Users/teacher/Desktop/SeminarHomework/homework8/bin/Debug/net6.0/homework8.pdb
+/Users/teacher/Desktop/SeminarHomework/homework8/obj/Debug/net6.0/homework8.csproj.AssemblyReference.cache
+/Users/teacher/Desktop/SeminarHomework/homework8/obj/Debug/net6.0/homework8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/teacher/Desktop/SeminarHomework/homework8/obj/Debug/net6.0/homework8.AssemblyInfoInputs.cache
+/Users/teacher/Desktop/SeminarHomework/homework8/obj/Debug/net6.0/homework8.AssemblyInfo.cs
+/Users/teacher/Desktop/SeminarHomework/homework8/obj/Debug/net6.0/homework8.csproj.CoreCompileInputs.cache
+/Users/teacher/Desktop/SeminarHomework/homework8/obj/Debug/net6.0/homework8.dll
+/Users/teacher/Desktop/SeminarHomework/homework8/obj/Debug/net6.0/refint/homework8.dll
+/Users/teacher/Desktop/SeminarHomework/homework8/obj/Debug/net6.0/homework8.pdb
+/Users/teacher/Desktop/SeminarHomework/homework8/obj/Debug/net6.0/homework8.genruntimeconfig.cache
+/Users/teacher/Desktop/SeminarHomework/homework8/obj/Debug/net6.0/ref/homework8.dll
